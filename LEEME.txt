@@ -1,0 +1,16 @@
+INSTALACIÓN
+
+a- La carpeta que contiene este archivo debe estar colocada en el escritorio.
+
+b- Ejecutar el installer con permisos de Administrador.
+(Clic derecho, Ejecutar como... Ejecutar como Administrador)
+
+c- Seguir los pasos que indica el instalador.
+
+
+
+EJECUCIÓN
+
+d- Ejecutar planB.bat
+
+
